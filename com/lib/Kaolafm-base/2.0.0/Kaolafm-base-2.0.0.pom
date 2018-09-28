@@ -130,12 +130,6 @@
     </dependency>
     <dependency>
       <groupId>cn.jiguang.sdk</groupId>
-      <artifactId>jpush</artifactId>
-      <version>3.1.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>cn.jiguang.sdk</groupId>
       <artifactId>jcore</artifactId>
       <version>1.2.0</version>
       <scope>compile</scope>
