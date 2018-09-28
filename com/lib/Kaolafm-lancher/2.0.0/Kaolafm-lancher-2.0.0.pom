@@ -17,7 +17,7 @@
     <dependency>
       <groupId>com.jakewharton</groupId>
       <artifactId>butterknife</artifactId>
-      <version>9.0.0-SNAPSHOT</version>
+      <version>8.8.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
